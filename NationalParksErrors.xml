@@ -1,0 +1,153 @@
+<NationalPark>
+
+<!-- Following the template for the assignment, we list out the details for the Grand Canyon-->
+<NationalPark Rating="4.9">
+<Name>Grand Canyon</Name>
+<Phone>928-638-7496</Phone>
+<Phone>888-297-2757</Phone>
+<Phone>866-499-2574</Phone>
+<Address NearestAirport="FlagStaff">
+<Number>8</Number>
+<Street>S Entrance Road</Street>
+<City>Grand Canyon</City>
+<State>AZ</State>
+<Zip>86023</Zip>
+</Address>
+</NationalPark>
+
+<!-- Adding in Shenandoah National Park information-->
+<NationalPark Rating="4.8">
+<Name>Shenandoah National Park</Name>
+<Address NearestAirport="Washington Dulles International Airport">
+<Number>21073</Number>
+<Street>Skyline Drive</Street>
+<City>Front Royal</City>
+<State>VA</State>
+<Zip>22630</Zip>
+</Address>
+</NationalPark>
+
+<!-- Adding in New River Gorge National Park information-->
+<NationalPark>
+<Name>New River Gorge National Park and Preserve</Name>
+<Name>New River Gorge</Name>
+<Phone>304-574-2115</Phone>
+<Phone>304-465-0508</Phone>
+<Address NearestAirport="Raleigh County Memorial Airport">
+<Number>162</Number>
+<Street>Visitor Center Road</Street>
+<City>Lansing</City>
+<State>WV</State>
+<Zip>25862</Zip>
+</Address>
+</NationalPark>
+
+
+<!-- Adding in Great Smoky Mountains National Park information-->
+
+<NationalPark Rating="4.7">
+<Name>Great Smoky Mountains National Park</Name>
+<Phone>865-436-1200</Phone>
+<Address NearestAirport="McGhee Tyson Airport">
+<Number>1420</Number>
+<Street>Fighting Creek Gap Road</Street>
+<City>Gatlinburg</City>
+<State>TN</State>
+<Zip>37738</Zip>
+</Address>
+</NationalPark>
+
+<!-- Adding in Mammoth Cave National Park information-->
+<NationalPark>
+<Name>Mammoth Cave National Park</Name>
+<Phone>270-758-2180</Phone>
+<Phone>877-444-6777</Phone>
+<Address NearestAirport="Bowling Green-Warren County Regional Airport">
+<Number>1</Number>
+<Street>Mammoth Cave Parkway</Street>
+<City>Mammoth Cave</City>
+<State>KY</State>
+<Zip>42259</Zip>
+</Address>
+</NationalPark>
+
+
+<!-- Adding in Congaree National Park information-->
+
+<NationalPark>
+<Name>Congaree National Park</Name>
+<Phone>803-776-4396</Phone>
+<Address NearestAirport="Columbia Metropolitan Airport">
+<Number>100</Number>
+<Street>National Park Road</Street>
+<City>Hopkins</City>
+<State>SC</State>
+<Zip>29061</Zip>
+</Address>
+</NationalPark>
+
+<!--Adding in Cuyahoga Valley National Park information-->
+<NationalPark>
+<Name>Cuyahoga Valley National Park</Name>
+<Phone>440-717-3890</Phone>
+<Address NearestAirport="Cleveland Hopkins International Airport">
+<Number>6947</Number>
+<Street>Riverview Road</Street>
+<City>Peninsula</City>
+<State>OH</State>
+<Zip>44264</Zip>
+</Address>
+</NationalPark>
+<!-- Adding in Acadia National Park information-->
+<NationalPark Rating="4.8">
+<Name>Acadia National Park</Name>
+<Phone>207-288-3338</Phone>
+<Address>
+<Number>25</Number>
+<Street>Visitor Center Road</Street>
+<City>Bar Harbor</City>
+<State>ME</State>
+<Zip>04609</Zip>
+</Address>
+</NationalPark>
+
+<!-- Adding in Everglades National Park information-->
+<NationalPark>
+<Name>Everglades National Park</Name>
+<Phone>305-242-7700</Phone>
+<Address NearestAirport="Miami International Airport">
+<Number>40001</Number>
+<Street>State Road 9336</Street>
+<City>Homestead</City>
+<State>FL</State>
+<Zip>33034</Zip>
+</Address>
+</NationalPark>
+
+<!-- Adding in Biscayne National Park information-->
+<NationalPark>
+<Name>Biscayne National Park</Name>
+<Phone>786-335-3620</Phone>
+<Address NearestAirport="Miami International Airport">
+<Number>9700</Number>
+<Street>SW 328th Street</Street>
+<City>Homestead</City>
+<State>FL</State>
+<Zip>33033</Zip>
+</Address>
+</NationalPark>
+
+<!--Adding in Tortugas National Park information-->
+<NationalPark>
+<Name>Dry Tortugas National Park</Name>
+<Phone>305-242-7700</Phone>
+<Address NearestAirport="Key West International Airport">
+<Number>40001</Number>
+<Street>State Road 9336</Street>
+<City>Homestead</City>
+<State>FL</State>
+<Zip>33034</Zip>
+
+
+</NationalPark>
+</NationalPark>
